@@ -1,5 +1,5 @@
 # Teamfight-Tactics-TFT-Top-combs-analysis
-The aim of this analysis is to get insights inside the top tft combs by analysing the last 20 Games of the players in EUW.
+The aim of this analysis is to get insights inside the top tft combs by analysing the last 10 Games of the players in EUW.
 
 Database: The database contains the last 10 games of all the Top EUW players (Challenger, Grandmaster, Master, Diamond). 
 
